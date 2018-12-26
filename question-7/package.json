@@ -7,7 +7,7 @@
     "test": "mocha",
     "posttest": "mocha --reporter mocha-simple-html-reporter --reporter-options output=report.html"
   },
-  "author": "",
+  "author": "Himaja",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",

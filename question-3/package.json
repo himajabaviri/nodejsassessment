@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node_modules/.bin/mocha"
   },
-  "author": "Vijay",
+  "author": "Himaja",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0"
